@@ -1,0 +1,13 @@
+h1 {
+    color: red;
+    background-color: black;
+}
+.classe1 {
+    font-weight: bolder;
+    color:blue;
+}
+
+#id1 {
+    text-align: center;
+    color: green;
+}
